@@ -1,0 +1,21 @@
+[
+    {
+        "id": "Phieu_696398887c0e0",
+        "member_id": "tranvanhuong081005@gmail.com",
+        "book_id": "001",
+        "book_title": "sách giáo khoa",
+        "borrow_date": "2026-01-11",
+        "return_date": "2026-01-12",
+        "status": "Đã trả",
+        "actual_return_date": "2026-01-11"
+    },
+    {
+        "id": "Phieu_696398b56fe60",
+        "member_id": "tranvanhuong081005@gmail.com",
+        "book_id": "001",
+        "book_title": "sách giáo khoa",
+        "borrow_date": "2026-01-11",
+        "return_date": "2026-01-13",
+        "status": "Đang mượn"
+    }
+]

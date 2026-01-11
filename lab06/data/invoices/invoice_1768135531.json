@@ -1,0 +1,24 @@
+{
+    "id": 1768135531,
+    "created_at": "2026-01-11 13:45:31",
+    "customer": {
+        "name": "Trần Văn Hưởng",
+        "email": "tranvanhuong081005@gmail.com",
+        "phone": "0915815691",
+        "payment_method": "Tiền mặt"
+    },
+    "items": [
+        {
+            "name": "sách",
+            "qty": 1,
+            "price": 15000,
+            "line_total": 15000
+        }
+    ],
+    "subtotal": 15000,
+    "discount_percent": 0,
+    "discount_amount": 0,
+    "vat_percent": 0,
+    "vat_amount": 0,
+    "total_payment": 15000
+}
